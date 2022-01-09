@@ -491,10 +491,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .about-img {
   overflow: hidden;
+  width: 100%;
 }
 
 #about .about-img img {
-  max-width: 100%;
+  width: 100%;
 }
 
 @media (max-width: 768px) {
